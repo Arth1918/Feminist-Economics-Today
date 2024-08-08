@@ -1,8 +1,8 @@
-PWD d:/Study/Independent project/Translation/Feminist Economics Today/Chapter _4_Feminist theory and racial economic inequality
+PWD d:/Study/Independent project/Translation/Feminist Economics Today/Feminist-Economics-Today/Chapter _4_Feminist theory and racial economic inequality
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/Study/Independent project/Translation/Feminist Economics Today/Chapter _4_Feminist theory and racial economic inequality/CN-Femenist Economics Today_Chapter4.tex
+INPUT d:/Study/Independent project/Translation/Feminist Economics Today/Feminist-Economics-Today/Chapter _4_Feminist theory and racial economic inequality/CN-Femenist Economics Today_Chapter4.tex
 OUTPUT CN-Femenist Economics Today_Chapter4.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/ctex/ctexart.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/ctex/ctexart.cls
